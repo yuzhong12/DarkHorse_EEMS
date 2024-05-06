@@ -1,6 +1,6 @@
 #  About my first project on GitHub 
 ## `DarkHorse_EEMS`
-`DarkHorse_EEMS `means a simple **Enterprise Employee Management System from DarkHors***.
+`DarkHorse_EEMS `means a simple **Enterprise Employee Management System from DarkHors**.
 ## what's the project about 
 `DarkHorse_EEMS` is a simple enterprise employee management system launched by DarkHorse. I rewrote this project in C++ and made some minor improvements.
 ## how the project works
